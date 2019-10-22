@@ -178,7 +178,7 @@
     "createdAt": "Notification created at",
     "type": "Type",
     "user": "User",
-    "action": "Action"
+    "content": "Content"
   },
   "search": {
     "placeholder": "Search",
