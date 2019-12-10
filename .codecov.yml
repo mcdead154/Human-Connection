@@ -1,5 +1,5 @@
 codecov:
-  #token: uuid  # Your private repository token
+  token: 2c8b34aa-78e6-4c16-8264-0e066e42b204  # Your private repository token
   #url: "http"  # for Codecov Enterprise customers
   #slug: "owner/repo"  # for Codecov Enterprise customers
   #branch: master  # override the default branch

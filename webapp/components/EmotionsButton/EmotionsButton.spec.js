@@ -24,7 +24,7 @@ describe('EmotionsButton.vue', () => {
 
       it('renders an icon emotion', () => {
         expect(
-          Wrapper()
+          Wrapper() 
             .find('.emotions-buttons')
             .exists(),
         ).toBe(true)
