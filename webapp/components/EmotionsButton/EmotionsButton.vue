@@ -4,12 +4,12 @@
       <img :src="iconPath" width="40" />
     </ds-button>
     <ds-space margin-bottom="xx-small" />
-    <div class="emotions-mobile-space">
+    <!--<div class="emotions-mobile-space">
       <p class="emotions-label">{{ $t(`contribution.emotions-label.${emotion}`) }}</p>
       <p style="display: inline" :key="PostsEmotionsCountByEmotion[emotion]">
         {{ PostsEmotionsCountByEmotion[emotion] }}x
       </p>
-    </div>
+    </div>-->
   </div>
 </template>
 <script>

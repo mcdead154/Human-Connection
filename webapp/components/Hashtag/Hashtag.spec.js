@@ -24,7 +24,8 @@ describe('Hashtag', () => {
     })
 
     it('shows Name', () => {
-      expect(Wrapper().text()).toContain('Liebe')
+      expect(Wrapper().text()).toContain(`${id}`)
     })
   })
+
 })
