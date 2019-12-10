@@ -19,7 +19,7 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue .",
     "precommit": "yarn lint",
-    "test": "jest",
+    "test": "jest --coverage",
     "test:unit:debug": "node --inspect-brk ./node_modules/jest/bin/jest.js --no-cache --runInBand"
   },
   "jest": {
